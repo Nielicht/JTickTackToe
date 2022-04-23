@@ -1,2 +1,2 @@
 # JTickTackToe
-A tick tack toe, made in Java
+A tick tack toe, made in Java.
